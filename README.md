@@ -57,4 +57,7 @@ Estudiante de **Desarrollo de Software en SENATI (Lima, Perú)**, actualmente en
 
 ---
 
-> *Este README forma parte de la TAREA 1 – GIT (Ramas, commits y README personalizado).*
+## Objetivo profesional
+- Formar parte de un equipo de desarrollo que utilice metodologías ágiles, donde pueda aprender, crecer y contribuir con mis habilidades técnicas.
+- Adquirir experiencia práctica en el desarrollo de software y aportar con soluciones innovadoras en entornos de trabajo colaborativos.
+- Contribuir al desarrollo de aplicaciones útiles y escalables, mientras sigo fortaleciendo mis competencias técnicas y blandas.
