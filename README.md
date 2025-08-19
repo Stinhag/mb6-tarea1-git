@@ -61,3 +61,10 @@ Estudiante de **Desarrollo de Software en SENATI (Lima, Perú)**, actualmente en
 - Formar parte de un equipo de desarrollo que utilice metodologías ágiles, donde pueda aprender, crecer y contribuir con mis habilidades técnicas.
 - Adquirir experiencia práctica en el desarrollo de software y aportar con soluciones innovadoras en entornos de trabajo colaborativos.
 - Contribuir al desarrollo de aplicaciones útiles y escalables, mientras sigo fortaleciendo mis competencias técnicas y blandas.
+
+---
+
+## Tecnologías que quiero aprender en 2025
+- Framework backend: Laravel (PHP)
+- Bases de datos avanzadas: MongoDB o PostgreSQL
+- APIs: REST y GraphQL
